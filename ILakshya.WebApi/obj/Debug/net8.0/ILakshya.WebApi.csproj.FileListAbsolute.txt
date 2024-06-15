@@ -1,0 +1,533 @@
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.64536159.Up2Date
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.64536159.Up2Date
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.64536159.Up2Date
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.sourcelink.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CopyComplete
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Enums.NET.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\NPOI.Core.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Enums.NET.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\NPOI.Core.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.sourcelink.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.64536159.Up2Date
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.sourcelink.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.exe
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.deps.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.runtimeconfig.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Enums.NET.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ExcelDataReader.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ExtendedNumerics.BigDecimal.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\MathNet.Numerics.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\NPOI.Core.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OOXML.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXml4Net.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\NPOI.OpenXmlFormats.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\OfficeOpenXml.Core.ExcelPackage.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\SixLabors.ImageSharp.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Dal.pdb
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.ILakshya.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ILakshya.WebApi.props
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ILakshya.WebApi.props
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ILakshya.WebApi.props
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\scopedcss\bundle\ILakshya.WebApi.styles.css
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\refint\ILakshya.WebApi.dll
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.pdb
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ILakshya.WebApi.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\TodayAdminAPi\ILakshya.WebApi\obj\Debug\net8.0\ref\ILakshya.WebApi.dll

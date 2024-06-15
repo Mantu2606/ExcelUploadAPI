@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\ilakshya.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\ilakshya.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\ilakshya.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\ilakshya.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\webpochubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\webpochubdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\icommonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\commonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\authresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\authresponses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\controllers\\wphauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\controllers\\wphauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\ilakshya.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\ilakshya.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531144348_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103541_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103005_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531101718_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531100528_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531042108_initally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023306_initall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023117_initally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75336D9-2D38-4D06-9068-44D0A209DF72}|ILakshya.Model\\ILakshya.Model.csproj|solutionrelative:ilakshya.model\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\jwt\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\jwt\\itokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\jwt\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\jwt\\tokenmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\profiles\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\dto\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.webapi\\dto\\newstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5817CE-288D-44B8-AFC7-0091B88BF52F}|ILakshya.WebApi\\ILakshya.WebApi.csproj|solutionrelative:ilakshya.webapi\\dto\\newstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240601180117_Initially.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|c:\\users\\mantu\\source\\repos\\idadminap\\ilakshya.dal\\migrations\\20240609115448_initally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61FCEF12-1A5C-4243-86A7-FE79CD232270}|ILakshya.Dal\\ILakshya.Dal.csproj|solutionrelative:ilakshya.dal\\migrations\\20240609115448_initally.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAANwAAAAAAAAAAAAawO0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T16:18:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\appsettings.json",
+              "RelativeToolTip": "ILakshya.WebApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-30T17:21:46.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ILakshya.WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\ILakshya.WebApi.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\ILakshya.WebApi.csproj",
+              "RelativeToolTip": "ILakshya.WebApi\\ILakshya.WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T15:06:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Student.cs",
+              "RelativeDocumentMoniker": "ILakshya.Model\\Student.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Student.cs",
+              "RelativeToolTip": "ILakshya.Model\\Student.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:35:16.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILakshya.Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ILakshya.Dal.csproj",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\ILakshya.Dal.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ILakshya.Dal.csproj",
+              "RelativeToolTip": "ILakshya.Dal\\ILakshya.Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T14:49:23.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\CommonRepository.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\CommonRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\CommonRepository.cs",
+              "RelativeToolTip": "ILakshya.Dal\\CommonRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA8wCkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:03:52.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240609115448_Initally.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\Migrations\\20240609115448_Initally.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\Migrations\\20240609115448_Initally.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\Migrations\\20240609115448_Initally.cs",
+              "RelativeToolTip": "ILakshya.Dal\\Migrations\\20240609115448_Initally.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T11:54:48.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ICommonRepository.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\ICommonRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\ICommonRepository.cs",
+              "RelativeToolTip": "ILakshya.Dal\\ICommonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T15:02:35.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebPocHubDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\WebPocHubDbContext.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\WebPocHubDbContext.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\WebPocHubDbContext.cs",
+              "RelativeToolTip": "ILakshya.Dal\\WebPocHubDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAuwCwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:44:07.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "ILakshya.Dal\\IAuthenticationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:47:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "ILakshya.Dal\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Dal\\AuthenticationRepository.cs",
+              "RelativeToolTip": "ILakshya.Dal\\AuthenticationRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAwEAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:45:50.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthResponses.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\AuthResponses.cs",
+              "RelativeDocumentMoniker": "ILakshya.Model\\AuthResponses.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\AuthResponses.cs",
+              "RelativeToolTip": "ILakshya.Model\\AuthResponses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:34:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Role.cs",
+              "RelativeDocumentMoniker": "ILakshya.Model\\Role.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Role.cs",
+              "RelativeToolTip": "ILakshya.Model\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:40:41.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\User.cs",
+              "RelativeDocumentMoniker": "ILakshya.Model\\User.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\User.cs",
+              "RelativeToolTip": "ILakshya.Model\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:42:45.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Program.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAuwE4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:18:31.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WphAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Controllers\\WphAuthenticationController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAuwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:52:01.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ILakshya.Model.csproj",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\ILakshya.Model.csproj",
+              "RelativeDocumentMoniker": "ILakshya.Model\\ILakshya.Model.csproj",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\ILakshya.Model.csproj",
+              "RelativeToolTip": "ILakshya.Model\\ILakshya.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T14:38:53.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:47:51.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240601180117_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240601180117_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240601180117_Initially.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T18:01:17.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240531144348_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531144348_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531144348_Initially.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T14:43:48.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240531101718_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531101718_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531101718_Initially.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:17:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240531100528_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531100528_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531100528_Initially.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:05:28.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240531103005_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103005_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103005_Initially.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:30:05.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240531103541_Initially.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103541_Initially.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531103541_Initially.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:35:41.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240531023117_initally.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023117_initally.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023117_initally.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:31:18.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240531042108_initally.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531042108_initally.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531042108_initally.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T04:21:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240531023306_initall.cs",
+              "DocumentMoniker": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023306_initall.cs",
+              "ToolTip": "D:\\C# Api 2022\\praactice\\ILakshya.Model\\ILakshya.Dal\\Migrations\\20240531023306_initall.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T02:33:06.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Teacher.cs",
+              "RelativeDocumentMoniker": "ILakshya.Model\\Teacher.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.Model\\Teacher.cs",
+              "RelativeToolTip": "ILakshya.Model\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T14:39:16.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Jwt\\ITokenManager.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Jwt\\ITokenManager.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Jwt\\ITokenManager.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Jwt\\ITokenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:27:51.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenManager.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Jwt\\TokenManager.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Jwt\\TokenManager.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Jwt\\TokenManager.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Jwt\\TokenManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T00:28:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ILakshya.WebApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T14:11:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T17:25:46.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\StudentDto.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\DTO\\StudentDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\StudentDto.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\DTO\\StudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T01:03:40.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Profiles\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\Profiles\\StudentProfile.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\Profiles\\StudentProfile.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\Profiles\\StudentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T01:12:33.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\DTO\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\UpdateStudentDto.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\DTO\\UpdateStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T01:07:55.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NewStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\NewStudentDto.cs",
+              "RelativeDocumentMoniker": "ILakshya.WebApi\\DTO\\NewStudentDto.cs",
+              "ToolTip": "C:\\Users\\mantu\\Source\\repos\\IdAdminAP\\ILakshya.WebApi\\DTO\\NewStudentDto.cs",
+              "RelativeToolTip": "ILakshya.WebApi\\DTO\\NewStudentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T01:07:03.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

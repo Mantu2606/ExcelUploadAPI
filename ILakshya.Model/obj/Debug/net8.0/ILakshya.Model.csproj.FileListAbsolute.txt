@@ -1,0 +1,75 @@
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Documents\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\api\UdemyLecture\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+D:\C# Api 2022\praactice\ILakshya.Model\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.sourcelink.json
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\mantu\c#Project\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.sourcelink.json
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\mantu\Source\repos\IdAdminAP\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.deps.json
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\bin\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.sourcelink.json
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.dll
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\refint\ILakshya.Model.dll
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ILakshya.Model.pdb
+C:\Users\Admin\source\repos\TodayAdminAPi\ILakshya.Model\obj\Debug\net8.0\ref\ILakshya.Model.dll
